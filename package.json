@@ -1,0 +1,26 @@
+{
+  "name": "cuddly-umbrella",
+  "version": "1.0.0",
+  "description": "Phaser by example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dails08/cuddly-umbrella.git"
+  },
+  "author": "Chris Dailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dails08/cuddly-umbrella/issues"
+  },
+  "homepage": "https://github.com/dails08/cuddly-umbrella#readme",
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
